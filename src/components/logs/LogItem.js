@@ -22,7 +22,6 @@ const LogItem = ({ log }) => {
         </span>
         <a href="#!" className="secondary-content">
           <i className="material-icons grey-text">delete</i>
-          delete
         </a>
       </div>
     </li>
